@@ -1,1 +1,1 @@
-<img src="img/logo-cat/cat-logo-128.png" alt="cat-logo" align="right" />
+<img src="img/SailorMoon.gif" alt="cat-logo" align="right" />
