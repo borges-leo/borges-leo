@@ -86,7 +86,7 @@
       </td>
       <td>
         <img
-          src="https://cdn.simpleicons.org/visualstudiocode/007ACC"
+          src="[https://cdn.simpleicons.org/visualstudiocode/007ACC](https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019)"
           height="40"
           alt="vscode logo"
         />
