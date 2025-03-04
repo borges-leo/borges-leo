@@ -86,7 +86,7 @@
       </td>
       <td>
         <img
-          src="[https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019](https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000)"
+          src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000"
           height="40"
           alt="vscode logo"
         />
@@ -210,7 +210,7 @@
     <tr>
       <td>
         <img
-          src="https://cdn.simpleicons.org/visualstudiocode/007ACC"
+          src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000"
           height="40"
           alt="vscode logo"
         />
