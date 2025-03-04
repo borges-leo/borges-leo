@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Me chamo Leonardo Borges</h1>
 <h3 align="center">Recentemente, concluí meu curso técnico em desenvolvimento de sistemas na ETEC.</h3>
 
-- 🌱 Atualmente estou estudando **ReactJS**
+- 🌱 Atualmente estou estudando **JavaScript e Python**
 
 - 💬 Me pergunte sobre **NodeJs, JavaScript e Python**
 
