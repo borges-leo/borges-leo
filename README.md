@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou estudando **ReactJS**
 
-- 💬 Me pergunte sobre **NodeJs, ReactJs e MongoBD**
+- 💬 Me pergunte sobre **NodeJs, JavaScript e Python**
 
 - ⚡ Curiosidade sobre mim: **Eu amo mecânica**
 <hr/>
